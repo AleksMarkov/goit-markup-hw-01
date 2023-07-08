@@ -1,3 +1,3 @@
-# Git and Github course
+# Homework 1
 
-Crash course for Git
+Homework 1
